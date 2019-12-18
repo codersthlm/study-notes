@@ -1,4 +1,4 @@
-*Decision Trees
+* Decision Trees
 
 CART is an algorthm. C4.5.
 
