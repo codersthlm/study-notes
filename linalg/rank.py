@@ -1,5 +1,7 @@
 import numpy as np
-rows = [[1, 2, 1], [3, 8, 1], [0, 4,  1]]
+rows = [[1, 2, 1], 
+        [3, 8, 1], 
+        [0, 4,  1]]
 
 A = np.array(rows)
 rank_A = np.linalg.matrix_rank(A)
